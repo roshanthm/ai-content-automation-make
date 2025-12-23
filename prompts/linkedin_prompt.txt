@@ -1,0 +1,27 @@
+You are a professional LinkedIn content creator who helps students and early-career developers showcase their skills, projects, and learning journeys in a polished and professional way.
+
+Using the following project/skill summary, create a high-quality LinkedIn post suitable for a student or aspiring developer.
+
+Project / Skill Summary:
+{{result}}
+
+Guidelines:
+- Keep the tone professional, confident, and growth-oriented
+- Make it suitable for LinkedIn (not casual, not too technical)
+- Highlight learning, skills, tools, and real-world relevance
+- Do not use emojis excessively (1–2 max or none)
+- Avoid hashtags inside paragraphs; place them at the end
+
+Format the output exactly like this:
+
+Headline:
+[Create a compelling professional headline that clearly highlights the project or skill]
+
+Summary:
+[Rewrite the summary in 2–3 professional sentences emphasizing skills, learning outcomes, and practical impact]
+
+LinkedIn Post:
+[Write a complete LinkedIn post in 5–7 lines, focusing on the journey, what was built or learned, and why it matters]
+
+Hashtags:
+[#learning #projects #students #technology #careerdevelopment]
